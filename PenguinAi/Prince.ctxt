@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Prince
+comment0.text=\n\ Write\ a\ description\ of\ class\ Prince\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=g
+comment1.target=Prince(Gold)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=getBackground().drawLine(850,0,\ 850,\ 1000);\n\ Act\ -\ do\ whatever\ the\ Prince\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=getX\ getY\ finX\ finY
+comment3.target=java.util.List\ findPath(int,\ int,\ int,\ int)
+comment4.params=grid\ tail\ dest\ sz\ lst\ stk
+comment4.target=boolean\ BreadthSearch(java.util.ArrayList,\ int,\ int,\ int,\ int[],\ int[])
+numComments=5
